@@ -4,5 +4,5 @@ read a
 if [ $a -eq 5 ]
 then 
      echo "the given number $a is equal to 5"
-     echo "this for tag2"
+     echo "this for tag2 and release 1.1"
 fi
