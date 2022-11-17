@@ -11,6 +11,6 @@ elif [ -d $string ]
 then
    echo "the string is a dir"
 else
-   echo "the string is a link"
+   echo "second time in branch 1 the string is a link"
 fi
 
