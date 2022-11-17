@@ -20,6 +20,6 @@ elif [ $c -gt $a ] && [ $b -gt $c ] && [ $a -gt $d ]
 then
     echo "the number $c is greater"
 else
-    echo "the number $d is greater"
+    echo "second time in branch 2 number $d is greater"
 
 fi    
