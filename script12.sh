@@ -12,6 +12,6 @@ elif [ $b -gt $a ] && [ $b -gt $c ]
 then 
     echo "the number $b is greatest number"
 else
-    echo "the number $c is greatest number"
+    echo "branch 1 changes $c is greatest number"
 fi
 
