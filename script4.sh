@@ -1,8 +1,8 @@
 #!/bin/bash
 echo "enter the first number"
-read a
+a=$1
 echo "enter the second number"
-read b
+b=$2
 c=`expr $a + $b`
 echo "the sum of two integer entered is $c"
 
